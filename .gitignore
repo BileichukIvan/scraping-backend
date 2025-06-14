@@ -1,0 +1,22 @@
+# IDEs
+.idea/
+*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Scrapy
+.scrapy/
+
+# Database
+*.sqlite3
+*.db
